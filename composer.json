@@ -1,0 +1,13 @@
+{
+    "name": "yiiext/transliterator-component",
+    "description": "A component for russian transliteration",
+    "type": "library",
+    "license": "http://www.opensource.org/licenses/bsd-license.php",
+    "authors": [
+        {
+            "name": "Veaceslav Medvedev",
+            "email": "slavcopost@gmail.com"
+        }
+    ],
+    "require": {}
+}
